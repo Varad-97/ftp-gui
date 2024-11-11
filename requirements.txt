@@ -1,0 +1,3 @@
+pyftpdlib>=1.5.7
+tkinter
+pytest>=7.3.1 
